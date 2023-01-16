@@ -1,6 +1,6 @@
 # Basic of C Programming
 
-All of these program are written in VS Community. But you should be ready to go with any IDE. Almost all of these programs are choosen to be begineer friendly makind sure its not that sophisticated . Anyone who is new to c language can practice these examples.
+All of these program are written in Code::Blocks . But you should be ready to go with any IDE. Almost all of these programs are choosen to be begineer friendly makind sure its not that sophisticated . Anyone who is new to c language can practice these examples.
 
 
 ## Appendix
